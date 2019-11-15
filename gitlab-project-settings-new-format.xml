@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="iwj7EAZL-2a6y6BJcAAP" />
+          <option name="apiUrl" value="https://git.myca.io" />
+          <option name="repositoryUrl" value="git.myca.io" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
