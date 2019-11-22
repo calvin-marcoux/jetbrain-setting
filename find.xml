@@ -13,11 +13,11 @@
     <mask>*</mask>
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.html#</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
