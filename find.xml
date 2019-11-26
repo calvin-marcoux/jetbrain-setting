@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -15,10 +15,10 @@
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
     <mask>*.html#</mask>
-    <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
