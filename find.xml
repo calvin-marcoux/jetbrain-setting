@@ -19,6 +19,7 @@
     <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*routing*.ts</mask>
     <mask>*.ts</mask>
   </component>
 </application>
