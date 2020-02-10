@@ -10,6 +10,7 @@
       <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="push" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="PLAIN_TEXT" />
+      <mapping ext="npmrc" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="cleanScript" type="Shell Script" />
