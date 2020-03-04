@@ -1,17 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="Jenkinsfile.*.*" type="PLAIN_TEXT" />
-      <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="copmoser" type="PLAIN_TEXT" />
       <mapping pattern="web/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".helmignore" type="PLAIN_TEXT" />
+      <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
-      <mapping ext="push" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="PLAIN_TEXT" />
       <mapping ext="npmrc" type="PLAIN_TEXT" />
+      <mapping ext="push" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="cleanScript" type="Shell Script" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
@@ -22,7 +24,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Jenkinsfile.*" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
