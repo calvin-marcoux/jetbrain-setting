@@ -5,10 +5,10 @@
       <mapping pattern="Jenkinsfile.*.*" type="PLAIN_TEXT" />
       <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="copmoser" type="PLAIN_TEXT" />
-      <mapping pattern="web/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".helmignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="web/Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="PLAIN_TEXT" />
       <mapping ext="npmrc" type="PLAIN_TEXT" />
       <mapping ext="push" type="PLAIN_TEXT" />
