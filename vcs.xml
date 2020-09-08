@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/lyger/nemumatsuri.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/calvin-marcoux/flux-get-started.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Dev" />
