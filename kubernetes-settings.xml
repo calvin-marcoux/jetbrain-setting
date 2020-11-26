@@ -1,0 +1,15 @@
+<application>
+  <component name="KubernetesSettings">
+    <specSources>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/argoproj/argo-cd/v1.7.10/manifests/install.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://raw.githubusercontent.com/external-secrets/kubernetes-external-secrets/6.0.0/charts/kubernetes-external-secrets/crds/kubernetes-client.io_externalsecrets_crd.yaml" />
+      </SpecSource>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://github.com/jetstack/cert-manager/releases/download/v1.0.4/cert-manager.crds.yaml" />
+      </SpecSource>
+    </specSources>
+  </component>
+</application>
