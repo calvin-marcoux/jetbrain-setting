@@ -1,10 +1,17 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="egyde-dev" uuid="71434a7b-26d3-40b9-ac0e-56db0be48825">
-      <driver-ref>mariadb</driver-ref>
+      <driver-ref>mysql_aurora</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://database-1.cluster-cgexooaifeo2.ca-central-1.rds.amazonaws.com:3306/egyde-dev</jdbc-url>
+      <jdbc-url>jdbc:mysql:aurora://database-1.cluster-cgexooaifeo2.ca-central-1.rds.amazonaws.com:3306/egyde-dev</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Amazon Aurora MySQL - @database-1.cluster-cgexooaifeo2.ca-central-1.rds.amazonaws.com" uuid="3dcaeb4a-3419-45e6-ae5d-680560165019">
+      <driver-ref>mysql_aurora</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql:aurora://database-1.cluster-cgexooaifeo2.ca-central-1.rds.amazonaws.com:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
 </application>
