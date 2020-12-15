@@ -6,6 +6,7 @@
       <mapping pattern="Jenkinsfile.*.*" type="PLAIN_TEXT" />
       <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="copmoser" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="web/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
