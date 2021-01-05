@@ -2913,6 +2913,11 @@
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" />
                     </value>
                   </entry>
+                  <entry key="nginx.configuration.type">
+                    <value>
+                      <FeaturePluginData displayName="nginx server" pluginName="nginx Support" pluginId="ideanginx9" />
+                    </value>
+                  </entry>
                   <entry key="tests">
                     <value>
                       <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" />
