@@ -1295,6 +1295,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.nginx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ideanginx9" />
+              <option name="myPluginName" value="nginx Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.nodemonignore">
           <value>
             <plugin>
