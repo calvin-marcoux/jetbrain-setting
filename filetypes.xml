@@ -10,6 +10,7 @@
       <mapping pattern="web/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="ne" type="PLAIN_TEXT" />
       <mapping ext="push" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
