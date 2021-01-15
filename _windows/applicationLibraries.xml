@@ -1,5 +1,36 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.9 (egyde-backend) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/scoop/apps/python/current/DLLs" />
+        <root url="file://$USER_HOME$/scoop/apps/python/current/Lib" />
+        <root url="file://$USER_HOME$/scoop/apps/python/current" />
+        <root url="file://$USER_HOME$/Job/egyde-backend/venv" />
+        <root url="file://$USER_HOME$/Job/egyde-backend/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/python_stubs/1066165264" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/scoop/apps/python/current/DLLs" />
+        <root url="file://$USER_HOME$/scoop/apps/python/current/Lib" />
+        <root url="file://$USER_HOME$/scoop/apps/python/current" />
+        <root url="file://$USER_HOME$/Job/egyde-backend/venv" />
+        <root url="file://$USER_HOME$/Job/egyde-backend/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/python_stubs/1066165264" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Remote Python 3.9.0 Docker interpreter library">
       <CLASSES />
       <JAVADOC />
