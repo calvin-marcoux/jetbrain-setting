@@ -1,13 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Jenkinsfile.*.*" type="PLAIN_TEXT" />
-      <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="copmoser" type="PLAIN_TEXT" />
       <mapping pattern="web/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="copmoser" type="PLAIN_TEXT" />
       <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="ne" type="PLAIN_TEXT" />
       <mapping ext="push" type="PLAIN_TEXT" />
@@ -29,6 +27,8 @@
       <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Jenkinsfile.*" approved="true" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
